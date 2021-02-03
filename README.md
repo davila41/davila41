@@ -16,13 +16,13 @@ Hi, meu nome é José Augusto, tenho 25 anos, e estou aprendendo a programar foc
 
 ### 📲  Me siga nas redes
 <p>
-<a href="https://www.instagram.com/augustodavilag/">
+<a href="https://www.instagram.com/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" width="30px" alt="discord" target="_blank">
   </a> &nbsp;&nbsp;
 <a href="https://github.com/davila41">
   <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="github" target="_blank">
   </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/gustodavila">
+  <a href="https://twitter.com/">
     <img src="https://images.vexels.com/media/users/3/137419/isolated/preview/b1a3fab214230557053ed1c4bf17b46c-logotipo-do-iacute-cone-do-twitter-by-vexels.png" width="30px" alt="Twitter" target="_blank">
 </a> &nbsp;&nbsp;
   </p>
