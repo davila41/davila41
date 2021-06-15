@@ -1,6 +1,6 @@
 ## 🖖🏻 Hello world
 ### 👨🏻‍💻  Sobre mim
-Hi, meu nome é José Augusto, tenho 25 anos, e estou aprendendo a programar focado para ser em Full Stack.
+Hi, meu nome é José Augusto, tenho 26 anos, e estou focado nas novas teconolgias.
 ### 🤯 Aprendendo as seguintes  tecnologias:
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
 <code><img height="20" src="https://ionicframework.com/jp/docs/assets/icons/logo-react-icon.png"></code>
